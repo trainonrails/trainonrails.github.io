@@ -13,7 +13,7 @@ div.frame{
   padding-left: 3%;
 }
 
-p{
+p, li{
   line-height: 150%;
   text-align: justify;
 }
