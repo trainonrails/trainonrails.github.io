@@ -1,0 +1,15 @@
+body{
+  //background-image: url("../img/grey_mat.jpg");
+  background: #440000;
+}
+
+div.frame{
+  width: 60%;
+  background: #ededed;
+  margin-left: 20%;
+  margin-top: 40px;
+  color: #770000;
+  padding: 2%;
+  padding-right: 3%;
+  padding-left: 3%;
+}
