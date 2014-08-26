@@ -1,5 +1,4 @@
 body{
-  //background-image: url("../img/grey_mat.jpg");
   background: #440000;
 }
 
@@ -12,4 +11,9 @@ div.frame{
   padding: 2%;
   padding-right: 3%;
   padding-left: 3%;
+}
+
+p{
+  line-height: 150%;
+  text-align: justify;
 }
